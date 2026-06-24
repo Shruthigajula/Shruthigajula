@@ -79,7 +79,7 @@ Completed an Internship Project at ATS (Attivo Technology Solutions), gaining ha
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)] (https://linkedin.com/in/shruthi-gajula-12235633b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shruthi-gajula-12235633b)
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:gajulashruthi30@gmail.com)
 
 ---
